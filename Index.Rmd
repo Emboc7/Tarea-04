@@ -107,7 +107,7 @@ leaflet() %>%
         asp_registro$nombre_asp
       ),
       paste(
-        "<strong>Cantidad de especies:</strong>",
+        "<strong>Cantidad especie:</strong>",
         asp_registro$especies
         
       ),
